@@ -1,13 +1,14 @@
 # Roamze
 
-**AI-powered outdoor adventure planning.** Discover trails, plan trips, and get out there — with a guide that actually knows you.
+**Get outside.** Everything to do outdoors, in one place.
 
-Roamze helps you find your next adventure and build the whole trip around it: routes and conditions, gear and meals, a day-by-day itinerary, and an AI guide that remembers your style and reaches out when conditions are right.
+Roamze is where you start when the question is *"what can I do outside this weekend?"* Trails, open campsites, what's happening nearby, live conditions, and the local guides who can take you. It's built for people who are just getting into it, and deep enough for people who never stop.
 
-🏔️ Discover trails, campgrounds, and destinations near you
-🗺️ Plan multi-day experiences with AI-built itineraries
-🎒 Smart gear and meal recommendations for every trip
-🌤️ Live conditions and go/no-go windows
-🧭 A personal guide that learns what you love
+**Explore**: 75,000+ hikes plus climbing, mountain biking, paddling, fishing and skiing across all 50 states  
+**Stay**: 41,000 campgrounds, with live availability and alerts when a site opens up  
+**Happening**: ranger programs, guided hikes, clinics and outdoor events near you  
+**Conditions**: closures, road and pass status, and weather, each with its source and time  
+**Guides**: thousands of local outfitters and guides, from first-timer trips to big objectives  
+**Trips**: save what you find and turn it into a plan
 
-[roamze.com](https://roamze.com)
+On the web at [roamze.com](https://roamze.com), and on iOS and Android.
